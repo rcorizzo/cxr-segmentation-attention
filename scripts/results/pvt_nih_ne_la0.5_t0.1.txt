@@ -1,0 +1,31 @@
+Execution Time: 425.9030280828476 minutes
+              precision    recall  f1-score   support
+
+           0      0.832     0.829     0.831       791
+           1      0.830     0.833     0.832       791
+
+    accuracy                          0.831      1582
+   macro avg      0.831     0.831     0.831      1582
+weighted avg      0.831     0.831     0.831      1582
+
+AUC Score: 0.8927472625826899
+Best Threshold: 0.4423161960142749
+Specificity:  0.8293299620733249
+False Discovery Rate (FDR):  0.17002518891687657
+False Omission Rate (FOR):  0.16751269035532995
+------------------------------
+Metrics of unseen test data: 
+              precision    recall  f1-score   support
+
+           0      0.794     0.843     0.818       791
+           1      0.833     0.781     0.806       791
+
+    accuracy                          0.812      1582
+   macro avg      0.813     0.812     0.812      1582
+weighted avg      0.813     0.812     0.812      1582
+
+AUC Score: 0.8791364928773608
+Best Threshold: 0.17554343921542812
+Specificity:  0.843236409608091
+False Discovery Rate (FDR):  0.16711590296495957
+False Omission Rate (FOR):  0.20595238095238094
