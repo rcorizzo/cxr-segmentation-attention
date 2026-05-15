@@ -11,12 +11,14 @@ If our work is useful please consider citing our paper:
 
 ### Cite:
 ```
-@article{chen2024deep,
-  title={A deep fusion model for stock market prediction with news headlines and time series data},
-  author={Chen, Pinyu and Boukouvalas, Zois and Corizzo, Roberto},
-  journal={Neural Computing and Applications},
-  pages={1--43},
-  year={2024},
+@article{wu2026localization,
+  title={Localization-aware chest X-ray classification via segmentation and gradient-based attention},
+  author={Wu, Yaning and Japkowicz, Nathalie and Gilbert, Sebastien and Corizzo, Roberto},
+  journal={Data Mining and Knowledge Discovery},
+  volume={40},
+  number={4},
+  pages={47},
+  year={2026},
   publisher={Springer}
 }
 ```
