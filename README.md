@@ -3,6 +3,26 @@ The repository contains a method that calculates bounding boxes in real-time dur
 
 ![Image](https://github.com/user-attachments/assets/93bfd5a1-b525-49c0-9641-a6d620d5be7a)
 
+------  
+# Paper:
+Wu, Y., Japkowicz, N., Gilbert, S., & Corizzo, R. (2026). Localization-aware chest X-ray classification via segmentation and gradient-based attention. <em>Data Mining and Knowledge Discovery</em> [, 40(4), 47. [https://doi.org/10.1007/s10618-026-01214-x](https://doi.org/10.1007/s10618-026-01214-x)
+------  
+If our work is useful please consider citing our paper:
+
+### Cite:
+```
+@article{chen2024deep,
+  title={A deep fusion model for stock market prediction with news headlines and time series data},
+  author={Chen, Pinyu and Boukouvalas, Zois and Corizzo, Roberto},
+  journal={Neural Computing and Applications},
+  pages={1--43},
+  year={2024},
+  publisher={Springer}
+}
+```
+
+
+
 ## Data Source
 - **NIH ChestX-ray14 Dataset**  
   Provided by the National Institutes of Health Clinical Center.  
