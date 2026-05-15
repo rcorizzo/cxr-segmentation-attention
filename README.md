@@ -5,7 +5,7 @@ The repository contains a method that calculates bounding boxes in real-time dur
 
 ------  
 # Paper:
-Wu, Y., Japkowicz, N., Gilbert, S., & Corizzo, R. (2026). Localization-aware chest X-ray classification via segmentation and gradient-based attention. <em>Data Mining and Knowledge Discovery</em> [, 40(4), 47. [https://doi.org/10.1007/s10618-026-01214-x](https://doi.org/10.1007/s10618-026-01214-x)
+Wu, Y., Japkowicz, N., Gilbert, S., & Corizzo, R. (2026). Localization-aware chest X-ray classification via segmentation and gradient-based attention. <em>Data Mining and Knowledge Discovery</em>, 40(4), 47. [https://doi.org/10.1007/s10618-026-01214-x](https://doi.org/10.1007/s10618-026-01214-x)
 ------  
 If our work is useful please consider citing our paper:
 
