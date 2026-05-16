@@ -69,13 +69,7 @@ Data structure required for model training and evaluation (after running data_pr
     class2/
       img6.png
 ```
-The [`model`](./model) folder contains a text file with the download link to the pre-trained U-Net model. Structure of training data:
-```
-/data/Ottawa_masks_512/
-  img1.png
-  img2.png
-  img3.png
-```
+The [`model`](./model) folder contains a text file with the download link to the pre-trained U-Net model. The U-Net architecture is defined in [`scripts/model.py`](./scripts/model.py).
 
 ## Training and evaluation
 To run the classification task with cross entropy loss:
